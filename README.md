@@ -1,5 +1,10 @@
 # 🚀 Space Logistics Scheduler – Python DateTime Utilities
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)  
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen.svg)
+
 Welcome to your personal space logistics toolkit! This project is the foundational software for a rocket delivery startup, enabling basic time-related calculations essential for managing interplanetary deliveries.
 
 ## 📘 Project Overview
@@ -47,3 +52,26 @@ launch_time = datetime(2025, 5, 1)
 duration = 3
 print(calculate_landing_time(launch_time, duration))  # Output: "04-05-2025"
 ```
+## 🚀 Getting Started
+
+1. Clone this repo
+   ```
+   git clone https://github.com/JarrarShahid/Space-Logistics-Scheduler.git
+   cd Space-Logistics-Scheduler
+   ```
+
+2. Launch the notebook
+   ```
+   jupyter notebook notebook.ipynb
+   ```
+---
+
+## 🧑‍💻 Author
+
+[Jarrar Shahid](https://github.com/JarrarShahid)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
